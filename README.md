@@ -31,7 +31,7 @@ Describe any manipulations you performed to the data.
 
 #### Data Visualization
 
-Show !()[UTA-DataScience-Logo.png]
+Show ![](UTA-DataScience-Logo.png)
 
 ### Problem Formulation
 
@@ -58,7 +58,10 @@ Show !()[UTA-DataScience-Logo.png]
 
 
 
+## Citations
 
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 
 
