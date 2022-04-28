@@ -1,3 +1,5 @@
+![](UTA-DataScience-Logo.png)
+
 # Project Title
 
 **[One Sentence Summary]**
@@ -31,15 +33,34 @@ Describe any manipulations you performed to the data.
 
 #### Data Visualization
 
-Show ![](UTA-DataScience-Logo.png)
+Show a few visualization of the data and say a few words about what you see.
 
 ### Problem Formulation
 
-### Training Curves
+* Define:
+  * Input / Output
+  * Models
+    * Describe the different models you tried and why.
+  * Loss, Optimizer, other Hyperparameters.
+
+### Training
+
+* Describe the training:
+  * How you trained: software and hardware.
+  * How did training take.
+  * Training curves (loss vs epoch for test/train).
+  * How did you decide to stop training.
+  * Any difficulties? How did you resolve them?
 
 ### Performance Comparison
 
+* Clearly define the key performance metric(s).
+* Show/compare results in one table.
+* Show one visualization of results, for example ROC curves.
+
 ### Conclusions
+
+Draw some 
 
 ## How to reproduce results
 
@@ -61,7 +82,9 @@ Show ![](UTA-DataScience-Logo.png)
 ## Citations
 
 
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+
+
 
 
 
